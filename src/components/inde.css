@@ -1,0 +1,6 @@
+p {
+  list-style-type: none;
+  justify-content: space-between;
+  border-radius: 6px;
+  align-self: flex-end;
+}
